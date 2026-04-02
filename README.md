@@ -93,7 +93,7 @@ This script provides a web-based control panel for managing Exchange Remote Mail
 - Click Delete Distribution Group.
 - Confirm the action.
 - The group will be deleted from Active Directory.
-
+#
 **8. Managing Room/Equipment Mailboxes**
 
 **a. Viewing Details**
