@@ -3,6 +3,21 @@
 
 This script provides a web-based control panel for managing Exchange Remote Mailboxes, Shared Mailboxes, Distribution Groups, and Room/Equipment Mailboxes. It runs a simple HTTP server on your local machine, allowing you to perform common Exchange recipient management tasks via a web browser.
 
+**Why ecp_lite?**
+
+**Modern environments often have:**
+- Exchange attributes without Exchange servers
+- Hybrid remnants
+- Need for helpdesk-friendly tooling
+
+ecp_lite provides a lightweight ECP-like interface without requiring a full Exchange deployment.
+
+**Use Cases**
+- Hybrid environments after Exchange decommission
+- Helpdesk mailbox management
+- Attribute management without full Exchange server
+- Lab environments
+
 **Disclaimer**
 - The script is provided as-is and it is not recommended to use it in production environments without proper testing and security considerations. I cannot be held responsible for any damage or issues caused by using this script. Use it at your own risk.
 - If you would like to see improvements or have any suggestions, please feel free to contribute to the repository.
